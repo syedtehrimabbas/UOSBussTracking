@@ -1,0 +1,32 @@
+<resources>
+    <!--Text Fields Contents-->
+    <string name="app_name">Student</string>
+    <string name="name">Name</string>
+    <string name="rolls_no">BSITF14LC165</string>
+    <string name="phone">Phone</string>
+    <string name="route_name">Choose Route</string>
+    <!--Drawer Contents-->
+    <string name="d_n_map">Normal Map</string>
+    <string name="d_h_map">Hybrid Map</string>
+    <string name="d_mlocation">My location</string>
+    <string name="d_blocation">Bus Location</string>
+    <string name="d_nearest">Nearest Stop</string>
+    <string name="d_home">Home</string>
+    <string name="header">Bus Tracking System</string>
+    <string name="details">Gateway for students</string>
+    <!--MAp Work-->
+    <string name="API_KEY">AIzaSyDm0uPqvDUMt6VuYl4bSM4a_jgyQPBpQEU</string>
+    <!--IDS-->
+    <string name="name_id">nameET</string>
+    <string name="phone_id">phonenoET</string>
+    <string name="roll_no_id">roll_noET</string>
+    <string name="route_spinner">route_SP</string>
+    <string name="signup_id">signup_BT</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

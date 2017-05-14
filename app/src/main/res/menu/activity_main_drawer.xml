@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="App Functions">
+        <menu>
+            <item
+                android:id="@+id/n_mapBT"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/d_n_map" />
+            <item
+                android:id="@+id/h_mapBT"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/d_h_map" />
+            <item
+                android:id="@+id/bus_locationnBT"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/d_blocation" />
+            <item
+                android:id="@+id/nearestBT"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="@string/d_blocation" />
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_share"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>
